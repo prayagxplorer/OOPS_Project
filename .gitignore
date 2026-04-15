@@ -1,0 +1,7 @@
+# Build files
+obj/
+inventory_system
+
+# Data files
+inventory_data.csv
+emsdk/
